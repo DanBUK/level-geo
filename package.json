@@ -19,7 +19,7 @@
   "dependencies": {
     "geojson": "~0.1.4",
     "geojson-utils": "~1.0.0",
-    "rtree": "~1.1.1",
+    "rtree": "git://github.com/DanBUK/RTree",
     "level-sublevel": "~5.1.1",
     "event-stream": "~3.0.16"
   }
